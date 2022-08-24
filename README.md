@@ -1,13 +1,19 @@
+### Hi there 👋
+
 <img src="/github-header-image.png" alt="banner" />
 
-
+---
 
 ### Hi there and welcome to my GitHub page 👋
 
-
+I am Nabil Marzoug, a student in National School of Applied Sciences . My Studies are focused in Data Science and Machine Learning 
 
 
 ### What do I do?
+  
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Pyhton-3776AB?logo=react&logoColor=white&style=for-the-badge" />
@@ -19,7 +25,6 @@
   <img alt="keras" src="https://img.shields.io/badge/keras-D00000?logo=gatsby&logoColor=white&style=for-the-badge" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=graphql&logoColor=white&style=for-the-badge" />
   <img alt="C " src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge" />
-  <img alt="Unity" src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white&style=for-the-badge" />
 </p>
 
 - I’m currently (and constantly) studying Data Science and machine learning
