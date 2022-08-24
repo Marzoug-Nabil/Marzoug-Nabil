@@ -20,8 +20,9 @@ I am Nabil Marzoug, a student in National School of Applied Sciences . My Studie
   <img alt="pyTorch" src="https://img.shields.io/badge/pyTorch-EE4C2C?logo=angular&logoColor=white&style=for-the-badge" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+  <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+
   <img alt="Css" src="https://img.shields.io/badge/Tensorflow-FF6F00?logo=css3&logoColor=white&style=for-the-badge" />
-  <img alt="tensorflow" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" />
   <img alt="keras" src="https://img.shields.io/badge/keras-D00000?logo=gatsby&logoColor=white&style=for-the-badge" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=graphql&logoColor=white&style=for-the-badge" />
   <img alt="C " src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge" />
