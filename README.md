@@ -6,6 +6,7 @@
 
 
 
+
 ### What do I do?
 
 <p>
@@ -23,8 +24,8 @@
 
 - I’m currently (and constantly) studying Data Science and machine learning
 - I also have some blogging tutorials concerning Data Science and Machine Learning
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marzoug-Nabil)](https://github.com/anuraghazra/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marzoug-Nabil&show_icons=true&theme=radical)
 
 ### Send me a message!
 
