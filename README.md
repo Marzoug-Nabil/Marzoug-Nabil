@@ -26,6 +26,8 @@ I am Nabil Marzoug, a student in National School of Applied Sciences . My Studie
   <img alt="keras" src="https://img.shields.io/badge/keras-D00000?logo=gatsby&logoColor=white&style=for-the-badge" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=graphql&logoColor=white&style=for-the-badge" />
   <img alt="C " src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge" />
+  <img alt="Scikit-learn " src="https://img.shields.io/badge/Scikit-learn -F7931E?logo=graphql&logoColor=white&style=for-the-badge" />
+
 </p>
 
 - I’m currently (and constantly) studying Data Science and machine learning
