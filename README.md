@@ -1,15 +1,12 @@
 ### Hi there 👋
 
-<img src="/github-header-image.png" alt="banner" />
 
 ---
 
 ### Hi there and welcome to my GitHub page 👋
 
-I am Nabil Marzoug, a student in National School of Applied Sciences . My Studies are focused in Data Science and Machine Learning 
+I am Nabil Marzoug, an AI Engineer specializing in Quantum Machine Learning. My work focuses on the intersection of AI and quantum computing, with experience in data science, machine learning, and deep learning.
 
-
-### What do I do?
   
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
@@ -30,8 +27,6 @@ I am Nabil Marzoug, a student in National School of Applied Sciences . My Studie
 
 </p>
 
-- I’m currently (and constantly) studying Data Science and machine learning
-- I also have some blogging tutorials concerning Data Science and Machine Learning
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marzoug-Nabil&show_icons=true&theme=radical)
 
